@@ -1,4 +1,4 @@
-**THIS IS BOLD*
+**THIS IS BOLD**
 *THIS IS ITALIC*
 
 This is a code
